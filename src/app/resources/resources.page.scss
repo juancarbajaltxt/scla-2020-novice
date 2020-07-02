@@ -1,3 +1,33 @@
 .text{
     border: 1px solid black;
+    height: 200px;
     }
+
+    #size{
+        font-size:large;
+    }
+
+#one{
+    position: sticky;
+    width: 150px;
+    height: 150px;
+    top:140px;
+    left: 135px;
+
+}
+
+#two{
+    position: sticky;
+    width: 150px;
+    height: 150px;
+    top:355px;
+    left: 135px;
+}
+
+#three{
+    position: sticky;
+    width: 150px;
+    height: 150px;
+    top:575px;
+    left: 135px;
+}
