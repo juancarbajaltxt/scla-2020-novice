@@ -1,33 +1,35 @@
 .text{
     border: 1px solid black;
-    height: 200px;
+    height: 190px;
     }
 
-    #size{
+
+
+ #size{
         font-size:medium;
     }
 
 #one{
     position: sticky;
-    width: 150px;
+    width: 200px;
     height: 150px;
-    top:140px;
-    left: 120px;
+    top:100px;
+    left: 95px;
 
 }
 
 #two{
     position: sticky;
-    width: 150px;
+    width: 200px;
     height: 150px;
     top:355px;
-    left: 120px;
+    left: 95px;
 }
 
 #three{
     position: sticky;
-    width: 150px;
+    width: 200px;
     height: 150px;
     top:575px;
-    left: 120px;
+    left: 95px;
 }
