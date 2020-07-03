@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import{ InAppBrowser } from '@ionic-native/in-app-browser/ngx'
 
 @Component({
   selector: 'app-resources5',
@@ -7,7 +8,8 @@ import { Component, OnInit } from '@angular/core';
 })
 export class Resources5Page implements OnInit {
 
-  constructor() { }
+  constructor(private lab: InAppBrowser,) { }
+
 
   ngOnInit() {
   }
