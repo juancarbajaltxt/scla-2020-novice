@@ -15,15 +15,15 @@ export class Resources2Page implements OnInit {
 
 
   openBlank() {
-    this.lab.create(`https://www.pcworld.com/article/2957260/how-to-install-an-intel-or-amd-cpu-in-your-computer.html#:~:text=Start%20with%20your%20motherboard%20outside,LGA%20socket%20in%20the%20motherboard.&text=Now`, `_blank`);
+    this.lab.create(`https://smallbusiness.chron.com/install-processor-fans-70561.html#:~:text=Position%20your%20CPU%20fan%20over,place%20or%20secure%20with%20screws).`, `_blank`);
   }
   
   openBlank2() {
-    this.lab.create(`https://youtu.be/POv93iBvUkI`, `_blank`);
+    this.lab.create(`https://www.youtube.com/watch?v=ob4CpdTApuY`, `_blank`);
   }
   
   openBlank3() {
-    this.lab.create(`https://www.reddit.com/r/buildapc/comments/6a9daa/need_help_with_connecting_cpu_fan_to_motherboard/`, `_blank`);
+    this.lab.create(`https://forums.tomshardware.com/threads/how-can-i-mount-an-aftermarket-fan-onto-my-cpu-cooler.3347948/`, `_blank`);
   }
   
 
