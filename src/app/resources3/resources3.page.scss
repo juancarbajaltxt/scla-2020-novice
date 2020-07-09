@@ -1,7 +1,18 @@
-.text{
-    border: 1px solid black;
-    height: 190px;
+
+p.solid {
+    border: 1px solid;
+    border-radius: 10px;
+    border-color: blue;
+    height: 60px;
+    width: 375px;
+    text-align: center;
 }
+
+
+// .text{
+//     border: 1px solid black;
+//     height: 230px;
+// }
 
 #one{
     position: sticky;
