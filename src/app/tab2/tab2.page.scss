@@ -1,14 +1,54 @@
 ion-label{
-    padding: 40px 0;
+    padding: 10px 0;
 }
 
-.center{
-    padding-bottom: 60px 0;
-    text-align: center;
-    
-}
+// .center{
+//     // // padding-bottom: 60px 0;
+//     // text-align: center;
+//     background-color: lightgrey;
+//     width: 300px;
+//     border: 3px solid green;
+//     padding: 5px;
+//     margin: 5px;
+// }
 
 
 .middle{
     text-align: center;
+}
+
+
+#move{
+    padding-left: 0px;
+
+}
+
+
+#one{
+    padding-left: 180px;
+    position: relative; top: 0px;
+    width: 50%;
+}
+
+#two{
+    padding-left: 0px;
+    position: relative; top: 0px;
+    width: 50%;
+}
+
+
+#three{
+    padding-left: 180px;
+
+}
+
+
+#four{
+    padding-left: 0px;
+}
+
+
+ion-button{
+    width: 150px;
+    height: 120px;
 }
