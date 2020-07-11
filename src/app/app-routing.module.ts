@@ -36,7 +36,12 @@ const routes: Routes = [
   {
     path: 'resources7',
     loadChildren: () => import('./resources7/resources7.module').then( m => m.Resources7PageModule)
+  },
+  {
+    path: 'resources8',
+    loadChildren: () => import('./resources8/resources8.module').then( m => m.Resources8PageModule)
   }
+ 
 ];
 @NgModule({
   imports: [
